@@ -66,84 +66,80 @@
 - name: Karnataka
   country_id: '92'
   id: '17'
-  abbr:
-- name:
-  country_id: '92'
-  id: '18'
   abbr: KA
 - name: Kerala
   country_id: '92'
-  id: '19'
+  id: '18'
   abbr: KL
 - name: Lakshadweep
   country_id: '92'
-  id: '20'
+  id: '19'
   abbr: LD
 - name: Madhya Pradesh
   country_id: '92'
-  id: '21'
+  id: '20'
   abbr: MP
 - name: Maharashtra
   country_id: '92'
-  id: '22'
+  id: '21'
   abbr: MH
 - name: Manipur
   country_id: '92'
-  id: '23'
+  id: '22'
   abbr: MN
 - name: Meghalaya
   country_id: '92'
-  id: '24'
+  id: '23'
   abbr: ML
 - name: Mizoram
   country_id: '92'
-  id: '25'
+  id: '24'
   abbr: MZ
 - name: Nagaland
   country_id: '92'
-  id: '26'
+  id: '25'
   abbr: NL
 - name: Odisha
   country_id: '92'
-  id: '27'
+  id: '26'
   abbr: OR
 - name: Puducherry
   country_id: '92'
-  id: '28'
+  id: '27'
   abbr: PY
 - name: Punjab
   country_id: '92'
-  id: '29'
+  id: '28'
   abbr: PB
 - name: Rajasthan
   country_id: '92'
-  id: '30'
+  id: '29'
   abbr: RJ
 - name: Sikkim
   country_id: '92'
-  id: '31'
+  id: '30'
   abbr: SK
 - name: Tamil Nadu
   country_id: '92'
-  id: '32'
+  id: '31'
   abbr: TN
 - name: Telangana
   country_id: '92'
-  id: '33'
+  id: '32'
   abbr: TG
 - name: Tripura
   country_id: '92'
-  id: '34'
+  id: '33'
   abbr: TR
 - name: Uttar Pradesh
   country_id: '92'
-  id: '35'
+  id: '34'
   abbr: UP
 - name: Uttarakhand
   country_id: '92'
-  id: '36'
+  id: '35'
   abbr: UK
 - name: West Bengal
   country_id: '92'
-  id: '37'
+  id: '36'
   abbr: WB
