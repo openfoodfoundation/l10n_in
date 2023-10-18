@@ -65,10 +65,6 @@
   abbr: JH
 - name: Karnataka
   country_id: '92'
-  id: '17'
-  abbr:
-- name:
-  country_id: '92'
   id: '18'
   abbr: KA
 - name: Kerala
